@@ -3,13 +3,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim Icon" height="40" width="40">
 </p>
 
-# Estrutura de Dados - Lista 1
+# Estrutura de Dados - Lista 2
 
-## 🗓️ Lista 1
+## 🗓️ Lista 2
 
 Sorting
 
-## 💻 Exercício 3
+## 💻 Exercício 4
 
 1) Baseado no capítulo "Ordenando objetos" do material crie mais um atributo para pessoa, esse atributo será sobrenome e naturalmente aplique a técnica de encapsulamento da variável. Altere o método ``toString()`` para retornar nome + espaço + sobrenome.
 
